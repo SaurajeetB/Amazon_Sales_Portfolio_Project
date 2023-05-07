@@ -7,3 +7,5 @@
 * ### After cleaning and preparing the data, I moved on to exploring the dataset by finding insights and visualizing them. The observations I made during the data exploration phase included the product category, correlation between features, and product ratings.
 
 * ### Overall, this project showcases my skills in data cleaning, exploratory data analysis, and data visualization. Thank you for taking the time to review my project!
+
+## [Click here to view Code and EDA](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
